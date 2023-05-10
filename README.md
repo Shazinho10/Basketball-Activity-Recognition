@@ -9,3 +9,13 @@ As soon as the ball reaches the hoop, the algorithm will track back and check th
 4. For testing the videos Insert the path of the video in the variable “vid_path” variable in “pose_approach.py” file.
 5. The “ball_hoop_threshold” is to be treated as a hyperparameter and it should be adjusted after testing on a large dataset.
 6. To test the free throw approach run the "free_throw.py" file.
+
+
+
+
+https://github.com/Shazinho10/Basketball-Activity-Recognition/assets/96534007/ed2b1ff6-a09d-459c-8ac6-29a56f2908a9
+
+
+
+https://github.com/Shazinho10/Basketball-Activity-Recognition/assets/96534007/f07ac5aa-21e4-4f54-80af-74d8244209c8
+
