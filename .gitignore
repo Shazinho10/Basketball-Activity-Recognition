@@ -1,0 +1,4 @@
+testing_videos/
+yolov7-w6-pose.pt
+detection_weights/
+sf_net/output/segformer_results/SegFormer_MiT-B2_ADE20K.pth

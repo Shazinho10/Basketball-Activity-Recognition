@@ -1,0 +1,7 @@
+names:
+- player
+- ball
+- fieldgoal
+nc: 3
+train: /home/omnoai/Documents/basketball/Detections/ultralytics/dataset/train/images
+val: /home/omnoai/Documents/basketball/Detections/ultralytics/dataset/val/images
