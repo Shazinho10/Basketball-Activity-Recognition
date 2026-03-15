@@ -58,3 +58,10 @@ When the ball reaches the vicinity of the hoop, the algorithm performs a backwar
    ```
    free_throw.py
    ```
+
+# Sample Results
+Below are example outputs demonstrating the system in action:
+
+https://github.com/Shazinho10/Basketball-Activity-Recognition/assets/96534007/ed2b1ff6-a09d-459c-8ac6-29a56f2908a9
+
+https://github.com/Shazinho10/Basketball-Activity-Recognition/assets/96534007/f07ac5aa-21e4-4f54-80af-74d8244209c8
